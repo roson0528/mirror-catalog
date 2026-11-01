@@ -1,6 +1,6 @@
 # 自制镜像总览
 
-本仓库由内网镜像站自动生成，收录 3 个自制镜像（其中 2 个已发布到 GitHub）。
+本仓库由内网镜像站自动生成，收录 3 个自制镜像（其中 3 个已发布到 GitHub）。
 
 ## 分类索引
 
@@ -13,7 +13,7 @@
 
 | 镜像 | 版本 | 体积 | 获取 |
 | --- | --- | --- | --- |
-| 云阅读 myreader 开源版 | 1.0.0 | 1.1MB | 未同步 |
+| 云阅读 myreader 开源版 | 1.0.0 | 1.1MB | [roson0528/myreader-oss](https://github.com/roson0528/myreader-oss) · [v1.0.0](https://github.com/roson0528/myreader-oss/releases/tag/v1.0.0) |
 | 小步成长 · 家庭学习习惯管理平台（开源脱敏版） | 1.0.0 | 75.4MB | [roson0528/xiaobu-chengzhang](https://github.com/roson0528/xiaobu-chengzhang) · [v1.0.0](https://github.com/roson0528/xiaobu-chengzhang/releases/tag/v1.0.0) |
 
 ## 开发工具与效率
@@ -24,4 +24,4 @@
 
 ---
 
-生成时间：2026-11-01 06:24:03
+生成时间：2026-11-01 06:37:54
